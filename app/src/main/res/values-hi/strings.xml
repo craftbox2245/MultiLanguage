@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+
+    <string name="height">ऊंचाई</string>
+    <string name="weight">वजन</string>
+    <string name="married">शादी हो गई</string>
+    <string name="birthdate">जन्म दिन</string>
+
+</resources>
